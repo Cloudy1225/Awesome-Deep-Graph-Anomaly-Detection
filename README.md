@@ -471,6 +471,8 @@ The outline corresponds to the taxonomy of methods in our [survey paper](https:/
 
 - [Pan2025] A Label-Free Heterophily-Guided Approach for Unsupervised Graph Fraud Detection in *AAAI*, 2025.   [\[paper\]](https://www.arxiv.org/abs/2502.13308)[\[code\]](https://github.com/CampanulaBells/HUGE-GAD)
 
+- [Zhang2025] Gctam: Global and contextual truncated affinity combined maximization model for unsupervised graph anomaly detection in *IJCAI*, 2025. [\[paper\]](https://www.ijcai.org/proceedings/2025/0405.pdf)[\[code\]]()
+
 
 ### Graph Isolation 
 
